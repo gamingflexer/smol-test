@@ -1,0 +1,3 @@
+The "output.json" file is a data file, not a code file. It will be generated and filled with data when the web scraper is run. Initially, it can be an empty JSON file.
+
+{}
